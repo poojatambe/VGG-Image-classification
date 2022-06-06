@@ -30,4 +30,6 @@ for layer in conv_base.layers[:-fine_tune]:
 
 •	Build classification layers specific to the task and train the model.
 
+**References:**
 
+https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/
